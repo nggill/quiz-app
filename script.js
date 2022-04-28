@@ -6,14 +6,29 @@ const quizData = [
         c: '92',
         d: '102',
         correct: 'c'
-    },{
-        question: 'What is the most used programming language in 2022?',
-        a: 'Python',
-        b: 'C#',
-        c: 'Java',
-        d: 'JavaScript',
-        correct: 'a',
-    },{
-
+    },{   question: 'What is the most used programming language in 2022?',
+    a: 'Python',
+    b: 'C#',
+    c: 'Java',
+    d: 'JavaScript',
+    correct: 'a',
+    },{   question: 'Who is the president of the US',
+    a: 'Elon Musk',
+    b: 'Joe Biden',
+    c: 'Jeff Bezos',
+    d: 'Ivan Saldano',
+    correct: 'b',
+    },{   question: 'What does HTML stand for?',
+    a: 'Hypertext Markup Language',
+    b: 'Jason Object Notation',
+    c: 'Helicopters Terminals Motorboats Lamborginis',
+    d: 'Cascading Style Sheet',
+    correct: 'a',
+    },{   question: 'What year was JavaScript launched?',
+    a: '1996',
+    b: '1995',
+    c: '1993',
+    d: 'none of the above',
+    correct: 'b',
     }
 ]
