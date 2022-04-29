@@ -23,15 +23,27 @@ body{
 .quiz-header{
     padding: 4rem;
 }
+h2{
+    margin: 0;
+}
+
 ul{
     list-style-type: none;
     padding: 0;
+}
+ul li{
+    font-size: 1.1rem;
+    margin: 0 1rem;
+}
+ul li label{
+    cursor: pointer;
 }
 button{
     background-color: #8e44ad;
     border: none;
     color: white;
     display: block;
+    cursor: pointer;
     font-family: inherit;
     font-size: 1.1rem;
     width: 100%;
@@ -39,5 +51,5 @@ button{
 
 }
 button:hover{
-    background-color:#8e44ad ;
+    background-color:#8e44ad;
 }
